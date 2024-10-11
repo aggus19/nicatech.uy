@@ -1,0 +1,15 @@
+{
+    "name": "administrator/metronic-blank",
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aggus19",
+            "email": "afagundez01@gmail.com"
+        }
+    ],
+    "require": {}
+}
